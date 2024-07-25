@@ -1,0 +1,35 @@
+{
+  "cSpell.words": [
+    "clsx",
+    "cmdk",
+    "embla",
+    "Godots",
+    "hookform",
+    "kneeshaw",
+    "lucide",
+    "Parens",
+    "plusplus",
+    "signin",
+    "signup",
+    "sonner",
+    "tailwindcss",
+    "tanstack",
+    "toastify",
+    "uiext",
+    "vaul",
+    "zustand"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.format": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.tabSize": 2,
+  "prettier.configPath": ".prettierrc.json",
+  "[svg]": {
+    "editor.defaultFormatter": "jock.svg"
+  }
+}
